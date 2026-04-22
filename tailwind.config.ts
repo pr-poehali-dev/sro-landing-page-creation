@@ -20,8 +20,8 @@ export default {
 		},
 		extend: {
 			fontFamily: {
-				display: ['Montserrat', 'sans-serif'],
-				body: ['IBM Plex Sans', 'sans-serif'],
+				display: ['Cormorant', 'Georgia', 'serif'],
+				body: ['Golos Text', 'sans-serif'],
 			},
 			colors: {
 				border: 'hsl(var(--border))',
